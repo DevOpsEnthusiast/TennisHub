@@ -1,0 +1,5 @@
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.CodedUITest\bin\Debug\tpMTM.CodedUITest.dll
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.CodedUITest\bin\Debug\tpMTM.CodedUITest.pdb
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.CodedUITest\obj\Debug\tpMTM.CodedUITest.csprojResolveAssemblyReference.cache
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.CodedUITest\obj\Debug\tpMTM.CodedUITest.dll
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.CodedUITest\obj\Debug\tpMTM.CodedUITest.pdb

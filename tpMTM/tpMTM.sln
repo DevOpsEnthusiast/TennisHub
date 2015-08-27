@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpMTM.UI", "tpMTM.UI\tpMTM.UI.csproj", "{31CFF912-9A47-4EB1-BBC1-97C581F1214F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpMTM.Test", "tpMTM.Test\tpMTM.Test.csproj", "{445F2E51-B1A1-4C7F-8AFF-BCD72E7A476E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpMTM.DTO", "tpMTM.DTO\tpMTM.DTO.csproj", "{8714BF43-FCE9-4733-A0BB-0B408E66070B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpMTM.DAL", "tpMTM.DAL\tpMTM.DAL.csproj", "{C6A5E5DA-1D9D-4529-A9D0-E0730383D675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpMTM.BO", "tpMTM.BO\tpMTM.BO.csproj", "{C37B545F-F9B5-4976-BCA8-C00C75D1F2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpMTM.CodedUITest", "tpMTM.CodedUITest\tpMTM.CodedUITest.csproj", "{70673EF4-496E-430F-BD67-2F810C10675D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://matlktfs1whp001:8080/tfs/tfs_us2014collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = tpMTM.UI\\tpMTM.UI.csproj
+		SccProjectName1 = tpMTM.UI
+		SccLocalPath1 = tpMTM.UI
+		SccProjectUniqueName2 = tpMTM.Test\\tpMTM.Test.csproj
+		SccProjectName2 = tpMTM.Test
+		SccLocalPath2 = tpMTM.Test
+		SccProjectUniqueName3 = tpMTM.DTO\\tpMTM.DTO.csproj
+		SccProjectName3 = tpMTM.DTO
+		SccLocalPath3 = tpMTM.DTO
+		SccProjectUniqueName4 = tpMTM.DAL\\tpMTM.DAL.csproj
+		SccProjectName4 = tpMTM.DAL
+		SccLocalPath4 = tpMTM.DAL
+		SccProjectUniqueName5 = tpMTM.BO\\tpMTM.BO.csproj
+		SccProjectName5 = tpMTM.BO
+		SccLocalPath5 = tpMTM.BO
+		SccProjectUniqueName6 = tpMTM.CodedUITest\\tpMTM.CodedUITest.csproj
+		SccProjectName6 = tpMTM.CodedUITest
+		SccLocalPath6 = tpMTM.CodedUITest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31CFF912-9A47-4EB1-BBC1-97C581F1214F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CFF912-9A47-4EB1-BBC1-97C581F1214F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CFF912-9A47-4EB1-BBC1-97C581F1214F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CFF912-9A47-4EB1-BBC1-97C581F1214F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445F2E51-B1A1-4C7F-8AFF-BCD72E7A476E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445F2E51-B1A1-4C7F-8AFF-BCD72E7A476E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445F2E51-B1A1-4C7F-8AFF-BCD72E7A476E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445F2E51-B1A1-4C7F-8AFF-BCD72E7A476E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8714BF43-FCE9-4733-A0BB-0B408E66070B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8714BF43-FCE9-4733-A0BB-0B408E66070B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8714BF43-FCE9-4733-A0BB-0B408E66070B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8714BF43-FCE9-4733-A0BB-0B408E66070B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A5E5DA-1D9D-4529-A9D0-E0730383D675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A5E5DA-1D9D-4529-A9D0-E0730383D675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A5E5DA-1D9D-4529-A9D0-E0730383D675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A5E5DA-1D9D-4529-A9D0-E0730383D675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37B545F-F9B5-4976-BCA8-C00C75D1F2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37B545F-F9B5-4976-BCA8-C00C75D1F2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37B545F-F9B5-4976-BCA8-C00C75D1F2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37B545F-F9B5-4976-BCA8-C00C75D1F2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70673EF4-496E-430F-BD67-2F810C10675D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70673EF4-496E-430F-BD67-2F810C10675D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70673EF4-496E-430F-BD67-2F810C10675D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70673EF4-496E-430F-BD67-2F810C10675D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

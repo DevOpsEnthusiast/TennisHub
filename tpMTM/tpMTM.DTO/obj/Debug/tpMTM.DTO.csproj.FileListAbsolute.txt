@@ -1,0 +1,5 @@
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.DTO\bin\Debug\tpMTM.DTO.dll
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.DTO\bin\Debug\tpMTM.DTO.pdb
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.DTO\obj\Debug\tpMTM.DTO.csprojResolveAssemblyReference.cache
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.DTO\obj\Debug\tpMTM.DTO.dll
+C:\Users\sshah032\Documents\Saumil\POCs\SaumilTest_MSFAgile6.2\Development\tpMTM\tpMTM.DTO\obj\Debug\tpMTM.DTO.pdb
