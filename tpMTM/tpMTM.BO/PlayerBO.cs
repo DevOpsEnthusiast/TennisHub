@@ -25,6 +25,7 @@ namespace tpMTM.BO
         {
             Player player = new Player { Name = name, Address = address, Phone = phone, Email = email };
             //next version, check for player's existence before adding
+            //hello hello
             PlayerDAL.GetInstance().Add(player);
         }
     }
