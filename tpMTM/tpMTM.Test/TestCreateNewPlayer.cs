@@ -5,7 +5,7 @@ using tpMTM.DTO;
 using tpMTM.DAL;
 using tpMTM.BO;
 
-namespace tpMTM.Tests
+namespace tpMTM.UnitTests
 {
     [TestClass]
     public class TestCreateNewPlayer
