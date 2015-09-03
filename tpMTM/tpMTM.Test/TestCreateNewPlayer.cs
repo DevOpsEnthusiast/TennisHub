@@ -14,6 +14,7 @@ namespace tpMTM.UnitTests
         public void TestCreateNew()
         {
             PlayerBO player = new PlayerBO();
+            //adding comments to my unit tests
             player.AddPlayer("Kei Nishikori", "Japan", "", "");
             Assert.IsTrue(player.GetPlayerByName("Kei Nishikori").IsActive);
         }
